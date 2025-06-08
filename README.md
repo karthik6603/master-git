@@ -1,6 +1,6 @@
 # 🚀 Master Git !
 
-A modern Git workflow cheat sheet for developers, DevOps engineers, and contributors. This README serves as your quick-reference to the most used Git commands, organized cleanly by use-case.
+A modern Git workflow cheat sheet for the developers, DevOps engineers, and contributors. This README serves as your quick-reference to the most used Git commands, organized cleanly by use-case.
 
 ---
 
