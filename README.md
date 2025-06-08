@@ -20,7 +20,7 @@ git config --global user.email "your.email@example.com"
 git init
 
 # Clone an existing repo
-git clone https://github.com/username/repo.git
+git clone https://github.com/karthik6603/master-git.git
 ```
 
 ---
